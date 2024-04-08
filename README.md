@@ -1,3 +1,13 @@
+### Домашнее задание к занятию «Git»
+### Сологуб Евгений
+
+1) https://github.com/SeSloup/gitlab-hw-netology-git)
+
+2) https://github.com/SeSloup/gitlab-hw-netology-git/commit/9d71f562b20af871c5c934ca463c2facc56a1e96
+
+3) git log --all --decorate --oneline --graph
+![alt text](https://github.com/username/reponame/blob/branch/path/image.png)
+
 first change
 
 # Домашнее задание к занятию "`Название занятия`" - `Фамилия и имя студента`
